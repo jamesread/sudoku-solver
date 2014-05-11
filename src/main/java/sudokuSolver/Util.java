@@ -1,4 +1,4 @@
-package sudukoSolver;
+package sudokuSolver;
 
 import java.io.BufferedReader;
 import java.io.File;

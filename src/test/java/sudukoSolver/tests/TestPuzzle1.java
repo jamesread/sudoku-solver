@@ -5,11 +5,11 @@ import java.io.IOException;
 import org.junit.Assert;
 import org.junit.Test;
 
-import sudukoSolver.model.Cell;
-import sudukoSolver.model.CellCollection;
-import sudukoSolver.model.Puzzle;
-import sudukoSolver.model.Puzzle.PuzzleFormatException;
-import sudukoSolver.solver.BruteForceSolver;
+import sudokuSolver.model.Cell;
+import sudokuSolver.model.CellCollection;
+import sudokuSolver.model.Puzzle;
+import sudokuSolver.model.Puzzle.PuzzleFormatException;
+import sudokuSolver.solver.BruteForceSolver;
 
 public class TestPuzzle1 {
 	@Test

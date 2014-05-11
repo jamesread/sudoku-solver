@@ -1,8 +1,8 @@
-package sudukoSolver.model;
+package sudokuSolver.model;
 
 import java.io.IOException;
 
-import sudukoSolver.Util;
+import sudokuSolver.Util;
 
 public class Puzzle {
 	public class PuzzleFormatException extends Exception {

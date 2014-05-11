@@ -1,4 +1,4 @@
-package sudukoSolver.model;
+package sudokuSolver.model;
 
 public class Cell {
 	private final int x, y;

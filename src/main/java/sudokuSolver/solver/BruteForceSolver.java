@@ -1,10 +1,10 @@
-package sudukoSolver.solver;
+package sudokuSolver.solver;
 
 import java.util.Iterator;
 
-import sudukoSolver.model.Cell;
-import sudukoSolver.model.CellCollection;
-import sudukoSolver.model.Puzzle;
+import sudokuSolver.model.Cell;
+import sudokuSolver.model.CellCollection;
+import sudokuSolver.model.Puzzle;
 
 public class BruteForceSolver {
 	private final Puzzle puzzle;
