@@ -1,6 +1,8 @@
 sudoku-solver
 =============
 
+## This project is now archived. Here is the [TURTLES checklist :turtle:](TURTLES.md) 
+
 A simple sudoku model, with a brute force solver I wrote for a competition with my little brother!
 
 This model could save somebody some time if they wanted to write more sophisticated solvers in Java. The solver implementation in this project is brute-force, which means is wasn't coded for efficiency, but as a simple demonstration that a sudoku solver can be exceedingly simple and can be solved totaly via logic - the solver does not use any guessing and completes cells correctly the first time, it just iterates, a heck of a lot!
